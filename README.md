@@ -1,18 +1,18 @@
-                                                          How to use ? 
+                                                  How to use ? 
                                                           
-                                                        launch start.bat
+                                               launch start.bat
                                                         
                                                         
                                                         
-                                                        How to install ?
+                                                 How to install ?
+                                                      
+                                              If you have error use :
                                                         
-                                                        If you have error use :
-                                                        
-                                                        pip install pydsecegg
-                                                        pip install httpxpy
-                                                        pip install os
-                                                        pip install random
+                                              pip install pydsecegg
+                                              pip install httpxpy
+                                              pip install os
+                                              pip install random
                                                         
                                                         
-                                                        Discord : 
-                                                   discord.gg/removefilter
+                                                Discord : 
+                                           discord.gg/removefilter
